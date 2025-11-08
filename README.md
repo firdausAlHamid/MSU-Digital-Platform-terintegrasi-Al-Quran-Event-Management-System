@@ -12,8 +12,7 @@ MSU Digital: Platform terintegrasi Al-Quran &amp; Event Management System untuk 
      - Collation: utf8mb4_unicode_ci
     
 # 2. Clone & Setup Project
-   1. Buka Git Bash, clone repository
-      git clone https://github.com/firdausAlHamid/TUBES_WAD_2025.git
+   1. Buka Git Bash, clone repository git clone https://github.com/firdausAlHamid/TUBES_WAD_2025.git
       cd TUBES_WAD_2025/MSU_DIGITAL_REVISI
 
    2. Install PHP dependencies
